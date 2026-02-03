@@ -196,7 +196,7 @@ We have zero duplicates left
 
 *The line chart shows the distribution of flight accidents across months. Variations in accident counts suggest seasonality, possibly influenced by weather conditions, peak travel periods, and operational factors.*
 
-For further visuals consult my Tableau dashboard here: https://public.tableau.com/views/projectphase1_17700368621660/AccidentTrendsOverTimeandSeasonality?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+For further Analysis consult my Tableau dashboard here: https://public.tableau.com/views/projectphase1_17700368621660/AccidentTrendsOverTimeandSeasonality?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 # CONCLUSION
 
